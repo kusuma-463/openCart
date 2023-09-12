@@ -229,3 +229,29 @@
 02:05:09.548 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Clicked on login button*****
 02:05:10.580 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Validating MyAccount Page*****
 02:05:10.769 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Finished TC_002_LoginTest*****
+02:33:43.861 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - ******Starting  TC_001_AccountRegistrationTest*****
+02:33:44.166 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - ******Clicked on MyAccount link*******
+02:33:45.355 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - ******Clicked on Register link*******
+02:33:48.562 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - ******Clicked on continue*******
+02:33:51.737 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - ******validating expected message*******
+02:33:51.742 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *******Finished Account Registartion Test*******
+02:34:01.581 [main] INFO  com.openCart.testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+02:34:01.582 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Clicked on MyAccount*****
+02:34:01.689 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Clicked on Login*****
+02:34:02.178 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Entering email and password*****
+02:34:02.456 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Clicked on login button*****
+02:34:03.208 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Validating MyAccount Page*****
+02:34:03.282 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Finished TC_002_LoginTest*****
+02:35:43.003 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - ******Starting  TC_001_AccountRegistrationTest*****
+02:35:43.040 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - ******Clicked on MyAccount link*******
+02:35:43.159 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - ******Clicked on Register link*******
+02:35:45.114 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - ******Clicked on continue*******
+02:35:45.947 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - ******validating expected message*******
+02:35:45.954 [main] INFO  com.openCart.testCases.TC_001_AccountRegistrationTest - *******Finished Account Registartion Test*******
+02:35:54.011 [main] INFO  com.openCart.testCases.TC_002_LoginTest - *****Starting TC_002_LoginTest*****
+02:35:54.012 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Clicked on MyAccount*****
+02:35:54.113 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Clicked on Login*****
+02:35:54.821 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Entering email and password*****
+02:35:55.113 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Clicked on login button*****
+02:35:56.014 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Validating MyAccount Page*****
+02:35:56.091 [main] INFO  com.openCart.testCases.TC_002_LoginTest - ******Finished TC_002_LoginTest*****
